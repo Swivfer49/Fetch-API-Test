@@ -2,7 +2,8 @@
     {
         "name": "Sticky Papers",
         "type": "website",
-        "year": 2019
+        "year": 2019,
+        "link": "https://swivfer49.github.io/sticky_papers/index.html"
     },
     {
         "name": "The Bread Game",
@@ -17,6 +18,7 @@
     {
         "name": "The Bread Game 1.0",
         "type": "website game",
-        "year": 2022
+        "year": 2022,
+        "link": "https://swivfer49.github.io/the-bread-game/index.html"
     }
 ]
